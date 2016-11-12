@@ -1,7 +1,7 @@
 # Planetary Weight
 Use the table below to calculate your weight on various planets in our solar system. The gravitation factor relative to earth is relative to your weight on Earth. 
 
-**Temperature Conversion Table:**   
+**Conversion Table:**   
 
 | Celestial Body | Gravitation Factor |
 | :------------  | :------------- |
